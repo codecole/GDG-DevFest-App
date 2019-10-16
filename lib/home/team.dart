@@ -76,22 +76,22 @@ class Team {
 
 List<Team> teams = [
   Team(
-    name: "Sundar Pichai",
+    name: "Kamaldeen Yusuf",
     desc: "Organizer",
-    contribution: "Google CEO",
+    contribution: "Lead Organiser",
     image:
         "https://pbs.twimg.com/profile_images/864282616597405701/M-FEJMZ0_400x400.jpg",
   ),
   Team(
-    name: "Vrijraj",
-    desc: "Co-Organizer",
-    contribution: "Logistics and travels",
-    image: "https://avatars2.githubusercontent.com/u/10599101?s=460&v=4",
+    name: "Cole Solomon",
+    desc: "Organizer",
+    contribution: "Developed the app",
+    image: "https://drive.google.com/open?id=1AYtTS36yzhDAr-Koh2L6CB-KjPdtD5R_",
   ),
   Team(
-    name: "Larry Page",
-    desc: "Co-Organizer",
-    contribution: "Founder",
+    name: "Silvanus Solomon",
+    desc: "Organizer",
+    contribution: "Cinematographer",
     image:
         "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c76bcaaa7ea43100043c836%2F400x400.jpg%3Ffit%3Dscale%26background%3D000000",
   ),

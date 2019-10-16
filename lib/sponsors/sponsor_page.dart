@@ -12,28 +12,28 @@ class SponsorPage extends StatelessWidget {
       body: ListView(
         children: <Widget>[
           SponsorImage(
-            imgUrl: "https://devfest.gdgkolkata.org/assets/img/logos/gd.png",
+            imgUrl: "https://images.ctfassets.net/i8vjdbvn2ri7/4MGpx3eSwoigDoaGYL0sMn/ce83aaa567f29a9fad83a077a30b951c/gatsby.jpg",
           ),
           SizedBox(
             height: 30,
           ),
           SponsorImage(
-            imgUrl: "https://devfest.gdgkolkata.org/assets/img/jetbrains.png",
-          ),
-          SizedBox(
-            height: 30,
-          ),
-          SponsorImage(
-            imgUrl:
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/220px-Kotlin-logo.svg.png",
+            imgUrl: "https://raw.githubusercontent.com/eggheadio/egghead-brand/master/Egghead-Logo-Dark.png",
           ),
           SizedBox(
             height: 30,
           ),
           SponsorImage(
             imgUrl:
-                "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_0016c93c710cf35990b999cba3a59bae/firebase.png",
-          )
+                "https://www.kwaranews.com/wp-content/uploads/2016/08/kwara-logo.jpg",
+          ),
+//          SizedBox(
+//            height: 30,
+//          ),
+//          SponsorImage(
+//            imgUrl:
+//                "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_0016c93c710cf35990b999cba3a59bae/firebase.png",
+//          )
         ],
       ),
       title: "Sponsors",
