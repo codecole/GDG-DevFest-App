@@ -1,84 +1,115 @@
 {
   "speakers": [
     {
-      "speaker_image": "https://avatars1.githubusercontent.com/u/12619420?s=400&u=eac38b075e4e4463edfb0f0a8972825cf7803d4c&v=4",
-      "speaker_name": "Pawan Kumar",
-      "speaker_desc": "Google Developer Expert, Flutter",
-      "speaker_session": "Talk: Getting Started With Flutter For Web",
-      "fb_url": "https://facebook.com/imthepk",
-      "github_url": "https://github.com/iampawan",
-      "linkedin_url": "https://linkedin.com/in/imthepk",
-      "twitter_url": "https://twitter.com/imthepk"
+      "speaker_image": "https://sessionize.com/image?f=508d7accf5641ccdf4d0d5245f491fc2,200,200,True,False,fe-5c68-46af-aced-4f7acfdd4c1b.dcc50341-3b2b-4d3d-9846-c58207d86086.jpg",
+      "speaker_name": "Abibat Adeola, Lawal Adeola",
+      "speaker_desc": "AI Enthusiast & Ambassador, LAUTECH Data Science",
+      "speaker_session": "Talk: Artificial Intelligence",
+      "twitter_url": "https://twitter.com/AbibatAderogba"
     },
     {
-      "speaker_image": "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/L2FwcGhvc3RpbmdfZ2xvYmFsL2Jsb2JzL0FFbkIyVW9DRktRcllTZDN1T2VINnhiUC11M2pVUFZFLVI0dVh5czF6d2lKNGRwanJjVjJhWm1zSUJZelVkZzBRaG9uRkNJZmhVZEg3ZGpVV0RhRmpQWXFYeHU0Y1ZDRmROb3FQYnVBQ2VKMWdOSFRHS3B0YWxRLk8xa3k2cVpFOG15UFAyRnk",
-      "speaker_name": "Laura Morinigo",
-      "speaker_desc": "Software Developer, DMod Labs",
-      "speaker_session": "How I Became a Mobile Developer with Firebase and Flutter",
-      "fb_url": "https://facebook.com/imthepk",
-      "github_url": "https://github.com/iampawan",
-      "linkedin_url": "https://linkedin.com/in/imthepk",
-      "twitter_url": "https://twitter.com/imthepk"
+      "speaker_image":
+      "https://sessionize.com/image?f=0791b3ea17362420e1d5194ed4eb3c93,200,200,True,False,042641b1-d15f-4787-ad64-89b957b8cbc2.jpg",
+      "speaker_name": "Aiman Saeed",
+      "speaker_desc": "Digital Evangelist",
+      "speaker_session": "IamRemarkable Workshop",
+
+      "twitter_url": "https://twitter.com/aimans_3"
     },
     {
-      "speaker_image": "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/L2FwcGhvc3RpbmdfZ2xvYmFsL2Jsb2JzL0FFbkIyVXJET043VnFRT2R1UHdyS1lFUElwLVNaYlVVbnc1enJuNTNGbUtQQjR0SF9STVUzMVptdkgzclRpRjhTUDc2WUNvNldKNFVacFhiXzF4bUoxTVc0RzlfXzF3d2tPUXl4NTNSNjBNSzRoaXB1VVBxOTRFLk0yOHMwWm1NeURjaWxQZ1k",
-      "speaker_name": "Jimenez Raul",
-      "speaker_desc": "Software Engineer, Byte Default",
-      "speaker_session": "Angular Elements",
-      "fb_url": "https://facebook.com/imthepk",
-      "github_url": "https://github.com/iampawan",
-      "linkedin_url": "https://linkedin.com/in/imthepk",
-      "twitter_url": "https://twitter.com/imthepk"
+      "speaker_session": "Growing with Google Community",
+      "speaker_image":
+      "https://sessionize.com/image?f=ce6b78035d6142b77b4b66e539e34f91,200,200,True,False,72d7f3a6-6530-4ce3-a3d6-e7ba75cda1b5.jpg",
+      "speaker_name": "Akinjobi Sodiq",
+      "speaker_desc": "Lead, DSC Unilag",
+
+      "twitter_url": "http://twitter.com/geektutor"
     },
     {
-      "speaker_image": "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/AEnB2UozlnKuWKqwaGjT2U6ylLLyMtoByOnx-ctrRmn5A8kptjCS50E8EgQDSuxYg8chsldOmSLbHScKX0ERlngHvbRp5XVRyNuAUSIm_Hguq3THTisLLaU.UyKUL3gyFQsEAcmO",
-      "speaker_name": "Sathish V J",
-      "speaker_desc": "Tech Architect, Investor, Tutor",
-      "speaker_session": "Machine Learning and AutoML on GCP",
-      "fb_url": "https://facebook.com/imthepk",
-      "github_url": "https://github.com/iampawan",
-      "linkedin_url": "https://linkedin.com/in/imthepk",
-      "twitter_url": "https://twitter.com/imthepk"
+      "speaker_session": "What are states and how to manage them with provider in flutter",
+      "speaker_image":
+      "https://sessionize.com/image?f=c28228bffe39668be49d72deb1913b53,200,200,True,False,9d4372d1-5dea-491a-998f-fce0aebd2580.jpg",
+      "speaker_name": "Benjamin Masebinu",
+      "speaker_desc": "Mobile app developer ,Start up builder",
+
+      "twitter_url": "https://twitter.com/benhaxe"
     },
     {
-      "speaker_image": "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/AEnB2UqZAYU9q0R5K2cq94DxU7ebiOMhilDlx5NzzsWWZ_oHxqcZV8H8j594rg_q_vyfTToA0BfScTHOHAj8uKf2OeF5MVqa_jmdjC9JO9-2TcPWjboxPf8.NN-XmkQxmHl1XyY_",
-      "speaker_name": "Timothy Jordan",
-      "speaker_desc": "Sr. Staff Developer Advocate, Google",
-      "speaker_session": "Top 5 from Firebase Summit '18",
-      "fb_url": "https://facebook.com/imthepk",
-      "github_url": "https://github.com/iampawan",
-      "linkedin_url": "https://linkedin.com/in/imthepk",
-      "twitter_url": "https://twitter.com/imthepk"
+      "speaker_session": "Building A Payment Experience with Google Pay",
+      "speaker_image":
+      "https://sessionize.com/image?f=c9d3b6e4a738357e638c3cc72a3a968f,200,200,True,False,5abc3869-8f65-4dc1-bbbd-54fa1d23a14a.jpg",
+      "speaker_name": "Blessing Krofegha",
+      "speaker_desc": "Senior Frontend Engineer, Myretailar Technologies",
+      "twitter_url": "https://twitter.com/beveloper"
     },
     {
-      "speaker_image": "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/L2FwcGhvc3RpbmdfZ2xvYmFsL2Jsb2JzL0FFbkIyVXJ2Zkg0YUY1ZFJoMFFRbWlqdFE4MV9nNTdJR0dxUS1ubVJfbkN2Y1RaS3VoaUp2dWd3ejNmUmJRekFQaU5QNGhqd1F6cUtKQXpYeXJkemVyS2hUY1NzSWloMXFCNzQzdmpRVVVmU0Z4XzJZRDVZQXVBLnFHVllKVmc2MUVzQVZ5bVI",
-      "speaker_name": "Tanay Pant",
-      "speaker_desc": "Web Developer Advocate, Mozilla Foundation",
-      "speaker_session": "Multiplayer Games with WebXR",
-      "fb_url": "https://facebook.com/imthepk",
-      "github_url": "https://github.com/iampawan",
-      "linkedin_url": "https://linkedin.com/in/imthepk",
-      "twitter_url": "https://twitter.com/imthepk"
+      "speaker_session": "Building a Diversive and Inclusive Community",
+      "speaker_image":
+      "https://sessionize.com/image?f=3dceaa1935a7a8d3c26d0f434bea3208,200,200,True,False,39776a1b-490f-49da-b6c4-e388acfb78d1.jpg",
+      "speaker_name": "Ishaka Usman Idris",
+      "speaker_desc": "Ambassador, GDG Keffi",
+
+      "twitter_url": "http://www.twitter.com/@Usman4all"
     },
     {
-      "speaker_image": "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/AEnB2UqEG002BsGCqZLZRFUGu9xo4IpGamz6gTqlWxWyME0s-n8gR7Rs0tM5R6mPMOCRYf5rAunWx0GQeXDUHPag_XWGApdekw.cks8tPlPy-TeucOT",
-      "speaker_name": "Eric Maxwell",
-      "speaker_desc": "Software Developer, Big Nerd Ranch",
-      "speaker_session": "Mobile Database Persistence",
-      "fb_url": "https://facebook.com/imthepk",
-      "github_url": "https://github.com/iampawan",
-      "linkedin_url": "https://linkedin.com/in/imthepk",
-      "twitter_url": "https://twitter.com/imthepk"
+      "speaker_session": "Automating Communication Using Micro Services",
+      "speaker_image":
+      "https://sessionize.com/image?f=04c9d9c03c4542fa2ddbd65ca2c341d6,200,200,True,False,46-5b20-486c-a0fe-860fe082eb54.6d357258-bdeb-44c5-9bf3-c2d0c0a40ffb.jpg",
+      "speaker_name": "Matthew Adeniyi",
+      "speaker_desc": "Lead Developer, MEV Suite",
+      "twitter_url": "https://twitter.com/math_1007"
     },
     {
-      "speaker_image": "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/L2FwcGhvc3RpbmdfZ2xvYmFsL2Jsb2JzL0FFbkIyVXBET0RKT0JBV195UjVuSDRKS3JEenphN2gzLW80WEdvenlGdkZhNGREUzFmQUk1RjJnR0N5eEJIdlBkOVhlLUdwalVSWXlxbXJ4VFA0QXRZdnB4WDllWFNpdmdiNy14Q0tLOENCeU41Yks4NF9vUVQ0LlVFY0RBeld0ZTd4OEtSUTg",
-      "speaker_name": "Yohan Totting",
-      "speaker_desc": "Web Developer Advocate, Google",
-      "speaker_session": "Progressive Experience Web Development",
-      "fb_url": "https://facebook.com/imthepk",
-      "github_url": "https://github.com/iampawan",
-      "linkedin_url": "https://linkedin.com/in/imthepk",
-      "twitter_url": "https://twitter.com/imthepk"
+      "speaker_session": "Go serverless on Cloud",
+      "speaker_image": "https://sessionize.com/image?f=38291c843c150c87ae59bc275c4ad6c1,200,200,True,False,da-6c1d-437a-bea6-768ed60e1318.38a09a90-e709-4eb6-bc46-bbf344822f3d.jpg",
+      "speaker_name": "Memunat Manzuma",
+      "speaker_desc": "Ambassador, Women Tech Maker Minna",
+      "twitter_url": "https://twitter.com/zaarab001"
+    },
+    {
+      "speaker_session": "Integrating Push Notification in you web application using Firebase",
+      "speaker_image":
+      "https://sessionize.com/image?f=38291c843c150c87ae59bc275c4ad6c1,200,200,True,False,da-6c1d-437a-bea6-768ed60e1318.38a09a90-e709-4eb6-bc46-bbf344822f3d.jpg",
+      "speaker_name": "Nonso Daniel",
+      "speaker_desc": "Software Developer",
+      "twitter_url": "https://twitter.com/nonsodaniel07"
+    },
+    {
+      "speaker_session": "Power of AMP (Accelerated Mobile Pages)",
+      "speaker_image":
+      "https://sessionize.com/image?f=38291c843c150c87ae59bc275c4ad6c1,200,200,True,False,da-6c1d-437a-bea6-768ed60e1318.38a09a90-e709-4eb6-bc46-bbf344822f3d.jpg",
+      "speaker_name": "Segun Olumide",
+      "speaker_desc": "Senior Frontend Engineer Myretailar Technologies",
+      "twitter_url": "http://twitter.com/wonexo"
+    },
+    {
+      "speaker_session": "Creating your First Augmented Reality Application",
+      "speaker_image":
+      "https://sessionize.com/image?f=4fc9835079a720512e1e97e34ea49d5e,200,200,True,False,b3bf0d90-f8b4-40c5-a0ed-e1b509f9634d.jpg",
+      "speaker_name": "Oluwatosin Ogunyebi",
+      "speaker_desc": "UI/UX Developer & Community Mentor ",
+
+      "twitter_url": "https://twitter.com/kiing_ot"
+    },
+    {
+      "speaker_session": "Scaling web application with Kubernetes",
+      "speaker_image":
+      "https://sessionize.com/image?f=426cd86016c7687200ac68ae171dec94,200,200,True,False,59-e10a-44ac-b924-74c1ad1c6601.2cc3c2b9-a2dc-4cd8-aece-9d10efcc2fd6.jpg",
+      "speaker_name": "Yusuf Adeyemo",
+      "speaker_desc": "Full Stack Developer, VoiceMe.ai ",
+
+      "twitter_url": "https://twitter.com/yusadolat"
+    },
+    {
+      "speaker_session": "Game and XR Developer",
+      "speaker_image":
+      "https://sessionize.com/image?f=4fc9835079a720512e1e97e34ea49d5e,200,200,True,False,b3bf0d90-f8b4-40c5-a0ed-e1b509f9634d.jpg",
+      "speaker_name": "Yusuf Adeyemo",
+      "speaker_desc": "Full Stack Developer, VoiceMe.ai ",
+
+      "twitter_url": "https://twitter.com/yusadolat"
     }
   ]
 }
+
+
