@@ -96,17 +96,33 @@ List<Team> teams = [
         "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c76bcaaa7ea43100043c836%2F400x400.jpg%3Ffit%3Dscale%26background%3D000000",
   ),
   Team(
-    name: "Pawan Kumar",
-    desc: "Co-Organizer",
-    contribution: "Developed the app",
+    name: "Jumah Abdulateef",
+    desc: "Organizer",
+    contribution: "Organiser",
     image:
         "https://avatars1.githubusercontent.com/u/12619420?s=400&u=eac38b075e4e4463edfb0f0a8972825cf7803d4c&v=4",
   ),
   Team(
-    name: "Pawan Kumar",
+    name: "Areous Ahmad",
     desc: "Organizer",
-    contribution: "Developed the app",
+    contribution: "Design & Branding",
     image:
-        "https://avatars1.githubusercontent.com/u/12619420?s=400&u=eac38b075e4e4463edfb0f0a8972825cf7803d4c&v=4",
+        "https://www.pexels.com/photo/adult-black-boardroom-business-people-2122945/",
+  ),
+
+  Team(
+    name: "Areous Ahmad",
+    desc: "Organizer",
+    contribution: "Design & Branding",
+    image:
+    "https://www.pexels.com/photo/adult-black-boardroom-business-people-2122945/",
+  ),
+
+  Team(
+    name: "Areous Ahmad",
+    desc: "Organizer",
+    contribution: "Design & Branding",
+    image:
+    "https://www.pexels.com/photo/adult-black-boardroom-business-people-2122945/",
   ),
 ];
