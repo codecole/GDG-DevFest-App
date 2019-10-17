@@ -45,7 +45,7 @@
     {
       "speaker_session": "Building a Diversive and Inclusive Community",
       "speaker_image":
-      "https://sessionize.com/image?f=3dceaa1935a7a8d3c26d0f434bea3208,200,200,True,False,39776a1b-490f-49da-b6c4-e388acfb78d1.jpg",
+      "https://sessionize.com/image?f=3bdc61299734ea9054bd5864deaf9695,200,200,True,False,46-b602-4728-bb38-d27797efb2b0.c4716114-3ff1-4d97-bb58-6206cdd4f1f6.JPG",
       "speaker_name": "Ishaka Usman Idris",
       "speaker_desc": "Ambassador, GDG Keffi",
 
@@ -69,7 +69,7 @@
     {
       "speaker_session": "Integrating Push Notification in you web application using Firebase",
       "speaker_image":
-      "https://sessionize.com/image?f=38291c843c150c87ae59bc275c4ad6c1,200,200,True,False,da-6c1d-437a-bea6-768ed60e1318.38a09a90-e709-4eb6-bc46-bbf344822f3d.jpg",
+      "https://sessionize.com/image?f=cf3b18e44b832da1dc552b22cbd18359,200,200,True,False,9b140d31-28e1-4880-8719-e6987b076772.jpg",
       "speaker_name": "Nonso Daniel",
       "speaker_desc": "Software Developer",
       "twitter_url": "https://twitter.com/nonsodaniel07"
@@ -77,9 +77,9 @@
     {
       "speaker_session": "Power of AMP (Accelerated Mobile Pages)",
       "speaker_image":
-      "https://sessionize.com/image?f=38291c843c150c87ae59bc275c4ad6c1,200,200,True,False,da-6c1d-437a-bea6-768ed60e1318.38a09a90-e709-4eb6-bc46-bbf344822f3d.jpg",
+      "https://sessionize.com/image?f=70b572ee46192965d40e0d80c7a47b61,200,200,True,False,73c6782b-b5df-4d03-8fc2-a6de5b507b06.jpg",
       "speaker_name": "Segun Olumide",
-      "speaker_desc": "Senior Frontend Engineer Myretailar Technologies",
+      "speaker_desc": "UI/UX Mentor, Community Mentor",
       "twitter_url": "http://twitter.com/wonexo"
     },
     {
@@ -87,7 +87,7 @@
       "speaker_image":
       "https://sessionize.com/image?f=4fc9835079a720512e1e97e34ea49d5e,200,200,True,False,b3bf0d90-f8b4-40c5-a0ed-e1b509f9634d.jpg",
       "speaker_name": "Oluwatosin Ogunyebi",
-      "speaker_desc": "UI/UX Developer & Community Mentor ",
+      "speaker_desc": "Game and XR Developer",
 
       "twitter_url": "https://twitter.com/kiing_ot"
     },
@@ -101,13 +101,13 @@
       "twitter_url": "https://twitter.com/yusadolat"
     },
     {
-      "speaker_session": "Game and XR Developer",
+      "speaker_session": "TensorFlow and TF2.0",
       "speaker_image":
-      "https://sessionize.com/image?f=4fc9835079a720512e1e97e34ea49d5e,200,200,True,False,b3bf0d90-f8b4-40c5-a0ed-e1b509f9634d.jpg",
-      "speaker_name": "Yusuf Adeyemo",
-      "speaker_desc": "Full Stack Developer, VoiceMe.ai ",
+      "https://sessionize.com/image?f=1bef75c95244372bf6bb2ffedf236a39,200,200,True,False,51-55d3-4e2e-9d13-1ad7de59c133.e9e847ff-4ab0-40d5-ad3f-3d8cc1bfdc95.jpg",
+      "speaker_name": "Olayinka Peter",
+      "speaker_desc": "Co Organizer, GDG Cloud Lagos ",
 
-      "twitter_url": "https://twitter.com/yusadolat"
+      "twitter_url": "https://twitter.com/@olayinkapeter_"
     }
   ]
 }

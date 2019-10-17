@@ -11,7 +11,7 @@
       "name": "Cole Solomon",
       "desc": "Organizer",
       "contribution": "Developed the app",
-      "image": "https://drive.google.com/open?id=1AYtTS36yzhDAr-Koh2L6CB-KjPdtD5R_"
+      "image": "https://res.cloudinary.com/thecodeghost/image/upload/v1554390384/IMG_2s0fmj.jpg"
     },
     {
       "name": "Silvanus Solomon",
@@ -36,6 +36,12 @@
       "desc": "Organizer",
       "contribution": "Developed the app",
       "image": ""
+    },
+    {
+      "name": "Barakat Abiola Ajadi",
+      "desc": "Organizer",
+      "contribution": "",
+      "image": "https://drive.google.com/file/d/1Jr6NSqVbaJqFnE6RewCbuXCFTmDupVa0/view?usp=drivesdk"
     }
   ]
 }
