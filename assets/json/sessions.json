@@ -1,16 +1,18 @@
 {
   "sessions": [
+
     {
       "session_id": "1",
       "session_start_time": "9:00 AM",
       "session_total_time": "30 Mins",
       "session_title": "Automating Communication Using Micro Services",
-      "session_desc":"",
-      "speakerImage": "https://sessionize.com/image?f=04c9d9c03c4542fa2ddbd65ca2c341d6,200,200,True,False,46-5b20-486c-a0fe-860fe082eb54.6d357258-bdeb-44c5-9bf3-c2d0c0a40ffb.jpg",
+      "sessionDesc": "",
+      "speaker_image": "https://sessionize.com/image?f=04c9d9c03c4542fa2ddbd65ca2c341d6,200,200,True,False,46-5b20-486c-a0fe-860fe082eb54.6d357258-bdeb-44c5-9bf3-c2d0c0a40ffb.jpg",
       "speaker_name": "Matthew Adeniyi",
       "speaker_desc": "Lead Developer at MEV Suite",
-      "track": "Web"
+      "track": "web"
     },
+
     {
       "session_id": "2",
       "session_start_time": "9:30 AM",
@@ -22,6 +24,7 @@
       "speaker_desc": "Full Stack Developer, VoiceMe.ai",
       "track": "web"
     },
+
     {
       "session_id": "3",
       "session_start_time": "10:30 AM",
@@ -45,7 +48,7 @@
       "https://sessionize.com/image?f=0791b3ea17362420e1d5194ed4eb3c93,200,200,True,False,042641b1-d15f-4787-ad64-89b957b8cbc2.jpg",
       "speaker_name": "Aiman Saeed",
       "speaker_desc": "Digital Strategist",
-      "track": "cloud"
+      "track": "web"
     },
     {
       "session_id": "5",
@@ -57,7 +60,7 @@
       "https://sessionize.com/image?f=3bdc61299734ea9054bd5864deaf9695,200,200,True,False,46-b602-4728-bb38-d27797efb2b0.c4716114-3ff1-4d97-bb58-6206cdd4f1f6.JPG",
       "speaker_name": "Usman Idris",
       "speaker_desc": "Community Organizer, GDG Keffi",
-      "track": "cloud"
+      "track": "web"
     },
     {
       "session_id": "6",
@@ -69,7 +72,7 @@
       "https://sessionize.com/image?f=ce6b78035d6142b77b4b66e539e34f91,200,200,True,False,72d7f3a6-6530-4ce3-a3d6-e7ba75cda1b5.jpg",
       "speaker_name": "Akinjobi Sodiq",
       "speaker_desc": "Lead, DSC Unilag",
-      "track": "cloud"
+      "track": "web"
     },
     {
       "session_id": "7",
@@ -90,7 +93,7 @@
       "session_title": "Go serverless on cloud",
       "session_desc": "",
       "speaker_image":
-      "https://sessionize.com/image?f=508d7accf5641ccdf4d0d5245f491fc2,200,200,True,False,fe-5c68-46af-aced-4f7acfdd4c1b.dcc50341-3b2b-4d3d-9846-c58207d86086.jpg",
+      "https://sessionize.com/image?f=38291c843c150c87ae59bc275c4ad6c1,200,200,True,False,da-6c1d-437a-bea6-768ed60e1318.38a09a90-e709-4eb6-bc46-bbf344822f3d.jpg",
       "speaker_name": "Memunat Manzuma",
       "speaker_desc": "Ambassadors, Women Tech Makers Minna",
       "track": "cloud"
@@ -103,7 +106,7 @@
       "session_title": "Integrating Push Notification in you web application using Firebase",
       "session_desc": "",
       "speaker_image":
-      "https://sessionize.com/image?f=38291c843c150c87ae59bc275c4ad6c1,200,200,True,False,da-6c1d-437a-bea6-768ed60e1318.38a09a90-e709-4eb6-bc46-bbf344822f3d.jpg",
+      "https://sessionize.com/image?f=cf3b18e44b832da1dc552b22cbd18359,200,200,True,False,9b140d31-28e1-4880-8719-e6987b076772.jpg",
       "speaker_name": "Nonso Daniel",
       "speaker_desc": "Software Developer",
       "track": "web"
