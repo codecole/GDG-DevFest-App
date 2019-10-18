@@ -10,7 +10,7 @@
     {
       "name": "Cole Solomon",
       "desc": "Organizer",
-      "contribution": "Developed the app",
+      "contribution": "Technical Support",
       "image": "https://res.cloudinary.com/thecodeghost/image/upload/v1554390384/IMG_2s0fmj.jpg"
     },
     {
@@ -34,14 +34,32 @@
     {
       "name": "Ahmed Olanrewaju",
       "desc": "Organizer",
-      "contribution": "Developed the app",
+      "contribution": "Technical Support",
       "image": ""
     },
     {
       "name": "Barakat Abiola Ajadi",
       "desc": "Organizer",
-      "contribution": "",
+      "contribution": "Host",
       "image": "https://drive.google.com/file/d/1Jr6NSqVbaJqFnE6RewCbuXCFTmDupVa0/view?usp=drivesdk"
+    },
+    {
+      "name": "Omiyale Dare",
+      "desc": "Organizer",
+      "contribution": "Branding",
+      "image": ""
+    },
+    {
+      "name": "Mohammed Yayah",
+      "desc": "Organizer",
+      "contribution": "Logistics & technical support",
+      "image": ""
+    },
+    {
+    "name": "Babajide Raheemat",
+    "desc": "Organizer",
+    "contribution": "Volunteeer Co ordinator",
+    "image": ""
     }
   ]
 }
