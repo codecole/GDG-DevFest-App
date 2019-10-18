@@ -5,7 +5,7 @@
       "name": "Kamaldeen Yusuf",
       "desc": "Lead Organizer",
       "contribution": "budget & Accomodation",
-      "image": ""
+      "image": "https://res.cloudinary.com/thecodeghost/image/upload/v1571428847/kenkarmah.jpg"
     },
     {
       "name": "Cole Solomon",
@@ -44,6 +44,12 @@
       "image": "https://drive.google.com/file/d/1Jr6NSqVbaJqFnE6RewCbuXCFTmDupVa0/view?usp=drivesdk"
     },
     {
+      "name": "Ibrahim Zulkifli",
+      "desc": "Organizer",
+      "contribution": "Logistics",
+      "image": "https://res.cloudinary.com/thecodeghost/image/upload/v1571435462/WhatsApp_Image_2019-10-18_at_21.35.28.jpg"
+    },
+    {
       "name": "Omiyale Dare",
       "desc": "Organizer",
       "contribution": "Branding",
@@ -59,7 +65,8 @@
     "name": "Babajide Raheemat",
     "desc": "Organizer",
     "contribution": "Volunteeer Co ordinator",
-    "image": ""
+    "image": "",
+
     }
   ]
 }

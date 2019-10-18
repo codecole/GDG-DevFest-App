@@ -4,69 +4,30 @@
     {
       "session_id": "1",
       "session_start_time": "9:00 AM",
-      "session_total_time": "30 Mins",
-      "session_title": "Automating Communication Using Micro Services",
+      "session_total_time": "15 Mins",
+      "session_title": "Opening Speech",
       "sessionDesc": "",
-      "speaker_image": "https://sessionize.com/image?f=04c9d9c03c4542fa2ddbd65ca2c341d6,200,200,True,False,46-5b20-486c-a0fe-860fe082eb54.6d357258-bdeb-44c5-9bf3-c2d0c0a40ffb.jpg",
-      "speaker_name": "Matthew Adeniyi",
-      "speaker_desc": "Lead Developer at MEV Suite",
+      "speaker_image": "https://res.cloudinary.com/thecodeghost/image/upload/v1571428847/kenkarmah.jpg",
+      "speaker_name": "Kamaldeen Yusuf",
+      "speaker_desc": "Lead Organiser",
       "track": "web"
     },
-
     {
       "session_id": "2",
-      "session_start_time": "9:30 AM",
-      "session_total_time": "30 Mins",
-      "session_title": "Scaling web application with Kubernetes",
+      "session_start_time": "9:15 AM",
+      "session_total_time": "15 Mins",
+      "session_title": "IceBreaker",
       "sessionDesc": "",
-      "speaker_image": "https://sessionize.com/image?f=426cd86016c7687200ac68ae171dec94,200,200,True,False,59-e10a-44ac-b924-74c1ad1c6601.2cc3c2b9-a2dc-4cd8-aece-9d10efcc2fd6.jpg",
-      "speaker_name": "Yusuf Adeyemo",
-      "speaker_desc": "Full Stack Developer, VoiceMe.ai",
+      "speaker_image": "https://res.cloudinary.com/thecodeghost/image/upload/v1571435462/WhatsApp_Image_2019-10-18_at_21.35.28.jpg",
+      "speaker_name": "Ibrahim Olalekan",
+      "speaker_desc": "Co-Organizer, GDG Ilorin",
       "track": "web"
     },
-
     {
       "session_id": "3",
-      "session_start_time": "10:30 AM",
+      "session_start_time": "9:30 AM",
       "session_total_time": "30 Mins",
-      "session_title":
-      "What are states and how to manage them with provider in flutter",
-      "session_desc": "",
-      "speaker_image":
-      "https://sessionize.com/image?f=c28228bffe39668be49d72deb1913b53,200,200,True,False,9d4372d1-5dea-491a-998f-fce0aebd2580.jpg",
-      "speaker_name": "Benjamin Masebinu",
-      "speaker_desc": "Mobile app developer, Start up builder",
-      "track": "mobile"
-    },
-    {
-      "session_id": "4",
-      "session_start_time": "11:00 AM",
-      "session_total_time": "45 Mins",
-      "session_title": "IamRemarkable Workshop",
-      "session_desc": "",
-      "speaker_image":
-      "https://sessionize.com/image?f=0791b3ea17362420e1d5194ed4eb3c93,200,200,True,False,042641b1-d15f-4787-ad64-89b957b8cbc2.jpg",
-      "speaker_name": "Aiman Saeed",
-      "speaker_desc": "Digital Strategist",
-      "track": "web"
-    },
-    {
-      "session_id": "5",
-      "session_start_time": "1:00 PM",
-      "session_total_time": "45 Mins",
-      "session_title": "Building a Diversive and Inclusive Community",
-      "session_desc": "",
-      "speaker_image":
-      "https://sessionize.com/image?f=3bdc61299734ea9054bd5864deaf9695,200,200,True,False,46-b602-4728-bb38-d27797efb2b0.c4716114-3ff1-4d97-bb58-6206cdd4f1f6.JPG",
-      "speaker_name": "Usman Idris",
-      "speaker_desc": "Community Organizer, GDG Keffi",
-      "track": "web"
-    },
-    {
-      "session_id": "6",
-      "session_start_time": "2:00 PM",
-      "session_total_time": "45 Mins",
-      "session_title": "Growing with google community",
+      "session_title": "Keynote: Growing with google community",
       "session_desc": "",
       "speaker_image":
       "https://sessionize.com/image?f=ce6b78035d6142b77b4b66e539e34f91,200,200,True,False,72d7f3a6-6530-4ce3-a3d6-e7ba75cda1b5.jpg",
@@ -75,21 +36,37 @@
       "track": "web"
     },
     {
-      "session_id": "7",
-      "session_start_time": "3:00 PM",
-      "session_total_time": "45 Mins",
-      "session_title": "Artificial intelligence",
+      "session_id": "4",
+      "session_start_time": "10:00 AM",
+      "session_total_time": "15 Mins",
+      "session_title": "Keynote: Roles of Women in Tech",
+      "sessionDesc": "",
+      "speaker_image": "https://twitter.com/adeolaleye_/photo",
+      "speaker_name": "Adeola Olaleye",
+      "speaker_desc": "Lead , Women In Tech Ilorin ",
+      "track": "web"
+    },
+
+
+
+
+    {
+
+      "session_id": "5",
+      "session_start_time": "10:45 AM",
+      "session_total_time": "35 Mins",
+      "session_title": "Power of AMP (Accelerated Mobile Pages)",
       "session_desc": "",
       "speaker_image":
-      "https://sessionize.com/image?f=508d7accf5641ccdf4d0d5245f491fc2,200,200,True,False,fe-5c68-46af-aced-4f7acfdd4c1b.dcc50341-3b2b-4d3d-9846-c58207d86086.jpg",
-      "speaker_name": "Abibat Adeola , Lawal Adeola",
-      "speaker_desc": "AI enthusiast & Ambassador, LAUTECH data Science",
-      "track": "cloud"
+      "https://sessionize.com/image?f=70b572ee46192965d40e0d80c7a47b61,200,200,True,False,73c6782b-b5df-4d03-8fc2-a6de5b507b06.jpg",
+      "speaker_name": "Segun Olamide",
+      "speaker_desc": "UI/UX Developer & Tech-Community Lead",
+      "track": "mobile"
     },
     {
-      "session_id": "8",
-      "session_start_time": "4:00 PM",
-      "session_total_time": "45 Mins",
+      "session_id": "6",
+      "session_start_time": "10:45 AM",
+      "session_total_time": "35 Mins",
       "session_title": "Go serverless on cloud",
       "session_desc": "",
       "speaker_image":
@@ -100,9 +77,9 @@
     },
     {
 
-      "session_id": "9",
-      "session_start_time": "5:00 PM",
-      "session_total_time": "45 Mins",
+      "session_id": "7",
+      "session_start_time": "10:45 AM",
+      "session_total_time": "35 Mins",
       "session_title": "Integrating Push Notification in you web application using Firebase",
       "session_desc": "",
       "speaker_image":
@@ -111,10 +88,14 @@
       "speaker_desc": "Software Developer",
       "track": "web"
     },
+
+
+
+
     {
-      "session_id": "10",
-      "session_start_time": "5:45 PM",
-      "session_total_time": "45 Mins",
+      "session_id": "8",
+      "session_start_time": "11:20 PM",
+      "session_total_time": "35 Mins",
       "session_title": "Building A Payment Experience with Google Pay",
       "session_desc": "",
       "speaker_image": "https://sessionize.com/image?f=c9d3b6e4a738357e638c3cc72a3a968f,200,200,True,False,5abc3869-8f65-4dc1-bbbd-54fa1d23a14a.jpg",
@@ -122,42 +103,66 @@
       "speaker_desc": "Senior Frontend Engineer, Myretailar Technologies",
       "track": "web"
     },
+
     {
-      "session_id": "11",
-      "session_start_time": "6:30 PM",
-      "session_total_time": "45 Mins",
+      "session_id": "9",
+      "session_start_time": "11:20 AM",
+      "session_total_time": "35 Mins",
+      "session_title": "Automating Communication Using Micro Services",
+      "session_desc": "",
+      "speaker_image":
+      "https://sessionize.com/image?f=04c9d9c03c4542fa2ddbd65ca2c341d6,200,200,True,False,46-5b20-486c-a0fe-860fe082eb54.6d357258-bdeb-44c5-9bf3-c2d0c0a40ffb.jpg"z,
+      "speaker_name": "Matthew Adeniyi",
+      "speaker_desc": "Lead Developer, MEV Suite",
+      "track": "cloud"
+    },
+
+    {
+      "session_id": "10",
+      "session_start_time": "11:20 PM",
+      "session_total_time": "35 Mins",
       "session_title": "Creating your First Augmented Reality Application",
       "session_desc": "",
       "speaker_image":
       "https://sessionize.com/image?f=4fc9835079a720512e1e97e34ea49d5e,200,200,True,False,b3bf0d90-f8b4-40c5-a0ed-e1b509f9634d.jpg",
       "speaker_name": "Oluwatosin Ogunyebi",
       "speaker_desc": "Game & XR developer",
-      "track": "Cloud"
+      "track": "mobile"
     },
+
+
+
+
+    {
+      "session_id": "11",
+      "session_start_time": "11:55 AM",
+      "session_total_time": "30 Mins",
+      "session_title": "IamRemarkable Workshop",
+      "session_desc": "",
+      "speaker_image":
+      "https://sessionize.com/image?f=0791b3ea17362420e1d5194ed4eb3c93,200,200,True,False,042641b1-d15f-4787-ad64-89b957b8cbc2.jpg",
+      "speaker_name": "Aiman Saeed",
+      "speaker_desc": "Digital Strategist",
+      "track": "web"
+    },
+
     {
       "session_id": "12",
-      "session_start_time": "7:15 PM",
-      "session_total_time": "45 Mins",
-      "session_title": "TensorFlow and TF 2.0",
-      "session_desc": "",
-      "speaker_image":
-      "https://sessionize.com/image?f=1bef75c95244372bf6bb2ffedf236a39,200,200,True,False,51-55d3-4e2e-9d13-1ad7de59c133.e9e847ff-4ab0-40d5-ad3f-3d8cc1bfdc95.jpg",
-      "speaker_name": "Olayinka Peter",
-      "speaker_desc": "Co Organizer, GDG cloud Lagos",
-      "track": "cloud"
-    },
-    {
-
-      "session_id": "13",
-      "session_start_time": "8:00 PM",
-      "session_total_time": "45 Mins",
-      "session_title": "Power of AMP (Accelerated Mobile Pages)",
-      "session_desc": "",
-      "speaker_image":
-      "https://sessionize.com/image?f=70b572ee46192965d40e0d80c7a47b61,200,200,True,False,73c6782b-b5df-4d03-8fc2-a6de5b507b06.jpg",
-      "speaker_name": "Segun Olamide",
-      "speaker_desc": "UI/UX Developer & Tech-Community Lead",
-      "track": "mobile"
+      "session_start_time": "12:25 PM",
+      "session_total_time": "30 Mins",
+      "session_title": "Scaling web application with Kubernetes",
+      "sessionDesc": "",
+      "speaker_image": "https://sessionize.com/image?f=426cd86016c7687200ac68ae171dec94,200,200,True,False,59-e10a-44ac-b924-74c1ad1c6601.2cc3c2b9-a2dc-4cd8-aece-9d10efcc2fd6.jpg",
+      "speaker_name": "Yusuf Adeyemo",
+      "speaker_desc": "Full Stack Developer, VoiceMe.ai",
+      "track": "web"
     }
+
+
+
+
+
+
+
   ]
 }

@@ -27,6 +27,13 @@ class AgendaPage extends StatelessWidget {
           ),
           isScrollable: false,
           tabs: <Widget>[
+        Tab(
+        child: Text("Web & More"),
+        icon: Icon(
+          FontAwesomeIcons.chrome,
+          size: 12,
+        ),
+      ),
             Tab(
               child: Text("Cloud"),
               icon: Icon(
@@ -41,26 +48,21 @@ class AgendaPage extends StatelessWidget {
                 size: 12,
               ),
             ),
-            Tab(
-              child: Text("Web & More"),
-              icon: Icon(
-                FontAwesomeIcons.chrome,
-                size: 12,
-              ),
-            )
+
           ],
         ),
         body: TabBarView(
           children: <Widget>[
+            WebScreen(
+              homeBloc: _homeBloc,
+            ),
             CloudScreen(
               homeBloc: _homeBloc,
             ),
             MobileScreen(
               homeBloc: _homeBloc,
             ),
-            WebScreen(
-              homeBloc: _homeBloc,
-            ),
+
           ],
         ),
       ),
