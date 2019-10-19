@@ -31,7 +31,7 @@ class HomeFront extends StatelessWidget {
 
   _launchURL(String url) async {
     if (await canLaunch(url)) {
-      await launch(url);
+      await launch(url,forceWebView: true);
     } else {
       throw 'Could not launch $url';
     }
@@ -112,19 +112,19 @@ class HomeFront extends StatelessWidget {
             title: Devfest.team_text,
             onPressed: () => Navigator.pushNamed(context, TeamPage.routeName),
           ),
-          ActionCard(
-            icon: Icons.attach_money,
-            color: Colors.purple,
-            title: Devfest.sponsor_text,
-            onPressed: () =>
-                Navigator.pushNamed(context, SponsorPage.routeName),
-          ),
-          ActionCard(
-            icon: Icons.question_answer,
-            color: Colors.brown,
-            title: Devfest.faq_text,
-            onPressed: () => Navigator.pushNamed(context, FaqPage.routeName),
-          ),
+//          ActionCard(
+//            icon: Icons.attach_money,
+//            color: Colors.purple,
+//            title: Devfest.sponsor_text,
+//            onPressed: () =>
+//                Navigator.pushNamed(context, SponsorPage.routeName),
+//          ),
+//          ActionCard(
+//            icon: Icons.question_answer,
+//            color: Colors.brown,
+//            title: Devfest.faq_text,
+//            onPressed: () => Navigator.pushNamed(context, FaqPage.routeName),
+//          ),
           ActionCard(
             icon: Icons.map,
             color: Colors.blue,

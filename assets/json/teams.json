@@ -4,8 +4,26 @@
 
       "name": "Kamaldeen Yusuf",
       "desc": "Lead Organizer",
-      "contribution": "budget & Accomodation",
+      "contribution": "Budget & Accomodation",
       "image": "https://res.cloudinary.com/thecodeghost/image/upload/v1571428847/kenkarmah.jpg"
+    },
+    {
+      "name": "Adeola Olaleye",
+      "desc": "Organizer",
+      "contribution": "Women in Tech",
+      "image": "https://pbs.twimg.com/profile_images/1109399439041576962/yFwRp2y9_400x400.jpg"
+    },
+    {
+      "name": "Areous Ahmad",
+      "desc": "Organizer",
+      "contribution": "Branding and Design",
+      "image": "https://pbs.twimg.com/profile_images/1183486926223007745/4nwpjHFA_400x400.jpg"
+    },
+    {
+      "name": "Mohammed Yayah",
+      "desc": "Organizer",
+      "contribution": "Logistics & technical support",
+      "image": "https://gdgilorin.dev/img/mohy.1c63bcac.jpg"
     },
     {
       "name": "Cole Solomon",
@@ -14,35 +32,12 @@
       "image": "https://res.cloudinary.com/thecodeghost/image/upload/v1554390384/IMG_2s0fmj.jpg"
     },
     {
-      "name": "Silvanus Solomon",
-      "desc": "Organizer",
-      "contribution": "Cinematographer",
-      "image": ""
-    },
-    {
-      "name": "Jumma Abdullateef",
-      "desc": "Organizer",
-      "contribution": "Photography",
-      "image": ""
-    },
-    {
-      "name": "Areous Ahmad",
-      "desc": "Organizer",
-      "contribution": "Branding and Design",
-      "image": "https://www.pexels.com/photo/adult-black-boardroom-business-people-2122945/"
-    },
-    {
       "name": "Ahmed Olanrewaju",
       "desc": "Organizer",
       "contribution": "Technical Support",
-      "image": ""
+      "image": "https://pbs.twimg.com/profile_images/1033783498744705024/b5PwJnpq_400x400.jpg"
     },
-    {
-      "name": "Barakat Abiola Ajadi",
-      "desc": "Organizer",
-      "contribution": "Host",
-      "image": "https://drive.google.com/file/d/1Jr6NSqVbaJqFnE6RewCbuXCFTmDupVa0/view?usp=drivesdk"
-    },
+
     {
       "name": "Ibrahim Zulkifli",
       "desc": "Organizer",
@@ -50,23 +45,10 @@
       "image": "https://res.cloudinary.com/thecodeghost/image/upload/v1571435462/WhatsApp_Image_2019-10-18_at_21.35.28.jpg"
     },
     {
-      "name": "Omiyale Dare",
-      "desc": "Organizer",
-      "contribution": "Branding",
-      "image": ""
-    },
-    {
-      "name": "Mohammed Yayah",
-      "desc": "Organizer",
-      "contribution": "Logistics & technical support",
-      "image": ""
-    },
-    {
     "name": "Babajide Raheemat",
     "desc": "Organizer",
-    "contribution": "Volunteeer Co ordinator",
-    "image": "",
-
+    "contribution": "Volunteeer Co-ordinator",
+    "image": "https://pbs.twimg.com/profile_images/1178743614224109568/Mmkza6PP_400x400.jpg"
     }
   ]
 }

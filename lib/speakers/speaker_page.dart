@@ -24,7 +24,7 @@ class SpeakerPage extends StatelessWidget {
                 size: 15,
               ),
               onPressed: () {
-                launch(speaker.fbUrl);
+                launch(speaker.fbUrl,forceWebView: true);
               },
             ),
             IconButton(
@@ -33,7 +33,7 @@ class SpeakerPage extends StatelessWidget {
                 size: 15,
               ),
               onPressed: () {
-                launch(speaker.twitterUrl);
+                launch(speaker.twitterUrl,forceWebView: true);
               },
             ),
             IconButton(
@@ -42,7 +42,7 @@ class SpeakerPage extends StatelessWidget {
                 size: 15,
               ),
               onPressed: () {
-                launch(speaker.linkedinUrl);
+                launch(speaker.linkedinUrl,forceWebView: true);
               },
             ),
             IconButton(
@@ -51,7 +51,7 @@ class SpeakerPage extends StatelessWidget {
                 size: 15,
               ),
               onPressed: () {
-                launch(speaker.githubUrl);
+                launch(speaker.githubUrl,forceWebView: true);
               },
             ),
           ],

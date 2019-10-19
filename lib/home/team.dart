@@ -78,51 +78,30 @@ List<Team> teams = [
   Team(
     name: "Kamaldeen Yusuf",
     desc: "Organizer",
-    contribution: "Lead Organiser",
     image:
         "https://pbs.twimg.com/profile_images/864282616597405701/M-FEJMZ0_400x400.jpg",
   ),
   Team(
     name: "Cole Solomon",
     desc: "Organizer",
-    contribution: "Developed the app",
     image: "https://drive.google.com/open?id=1AYtTS36yzhDAr-Koh2L6CB-KjPdtD5R_",
   ),
   Team(
     name: "Silvanus Solomon",
-    desc: "Organizer",
-    contribution: "Cinematographer",
+    desc: "Cinematographer",
     image:
         "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c76bcaaa7ea43100043c836%2F400x400.jpg%3Ffit%3Dscale%26background%3D000000",
   ),
   Team(
     name: "Jumah Abdulateef",
-    desc: "Organizer",
-    contribution: "Organiser",
+    desc: "Media",
     image:
         "https://avatars1.githubusercontent.com/u/12619420?s=400&u=eac38b075e4e4463edfb0f0a8972825cf7803d4c&v=4",
   ),
   Team(
     name: "Areous Ahmad",
-    desc: "Organizer",
-    contribution: "Design & Branding",
+    desc: "Design & Branding",
     image:
         "https://www.pexels.com/photo/adult-black-boardroom-business-people-2122945/",
-  ),
-
-  Team(
-    name: "Areous Ahmad",
-    desc: "Organizer",
-    contribution: "Design & Branding",
-    image:
-    "https://www.pexels.com/photo/adult-black-boardroom-business-people-2122945/",
-  ),
-
-  Team(
-    name: "Areous Ahmad",
-    desc: "Organizer",
-    contribution: "Design & Branding",
-    image:
-    "https://www.pexels.com/photo/adult-black-boardroom-business-people-2122945/",
-  ),
+  )
 ];

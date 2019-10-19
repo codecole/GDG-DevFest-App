@@ -1,38 +1,12 @@
 {
   "speakers": [
     {
-      "speaker_image": "https://sessionize.com/image?f=508d7accf5641ccdf4d0d5245f491fc2,200,200,True,False,fe-5c68-46af-aced-4f7acfdd4c1b.dcc50341-3b2b-4d3d-9846-c58207d86086.jpg",
-      "speaker_name": "Abibat Adeola, Lawal Adeola",
-      "speaker_desc": "AI Enthusiast & Ambassador, LAUTECH Data Science",
-      "speaker_session": "Talk: Artificial Intelligence",
-      "twitter_url": "https://twitter.com/AbibatAderogba"
-    },
-    {
       "speaker_image":
       "https://sessionize.com/image?f=0791b3ea17362420e1d5194ed4eb3c93,200,200,True,False,042641b1-d15f-4787-ad64-89b957b8cbc2.jpg",
       "speaker_name": "Aiman Saeed",
       "speaker_desc": "Digital Evangelist",
       "speaker_session": "IamRemarkable Workshop",
-
       "twitter_url": "https://twitter.com/aimans_3"
-    },
-    {
-      "speaker_session": "Growing with Google Community",
-      "speaker_image":
-      "https://sessionize.com/image?f=ce6b78035d6142b77b4b66e539e34f91,200,200,True,False,72d7f3a6-6530-4ce3-a3d6-e7ba75cda1b5.jpg",
-      "speaker_name": "Akinjobi Sodiq",
-      "speaker_desc": "Lead, DSC Unilag",
-
-      "twitter_url": "http://twitter.com/geektutor"
-    },
-    {
-      "speaker_session": "What are states and how to manage them with provider in flutter",
-      "speaker_image":
-      "https://sessionize.com/image?f=c28228bffe39668be49d72deb1913b53,200,200,True,False,9d4372d1-5dea-491a-998f-fce0aebd2580.jpg",
-      "speaker_name": "Benjamin Masebinu",
-      "speaker_desc": "Mobile app developer ,Start up builder",
-
-      "twitter_url": "https://twitter.com/benhaxe"
     },
     {
       "speaker_session": "Building A Payment Experience with Google Pay",
@@ -43,13 +17,35 @@
       "twitter_url": "https://twitter.com/beveloper"
     },
     {
+      "speaker_session": "Growing with Google Community",
+      "speaker_image":
+      "https://sessionize.com/image?f=ce6b78035d6142b77b4b66e539e34f91,200,200,True,False,72d7f3a6-6530-4ce3-a3d6-e7ba75cda1b5.jpg",
+      "speaker_name": "Akinjobi Sodiq",
+      "speaker_desc": "Lead, DSC Unilag",
+      "twitter_url": "http://twitter.com/geektutor"
+    },
+    {
+      "speaker_session": "Introducing Flutter for web development",
+      "speaker_image":
+      "https://pbs.twimg.com/profile_images/1033783498744705024/b5PwJnpq_400x400.jpg",
+      "speaker_name": "Ahmed Olanrewaju",
+      "speaker_desc": "Mobile Web Specialist",
+      "twitter_url": "https://twitter.com/Ahmzyjazzy"
+    },
+    {
+      "speaker_session": "Go serverless on Cloud",
+      "speaker_image": "https://sessionize.com/image?f=38291c843c150c87ae59bc275c4ad6c1,200,200,True,False,da-6c1d-437a-bea6-768ed60e1318.38a09a90-e709-4eb6-bc46-bbf344822f3d.jpg",
+      "speaker_name": "Memunat Manzuma",
+      "speaker_desc": "Ambassador, Women Tech Maker Minna",
+      "twitter_url": "https://twitter.com/zaarab001"
+    },
+    {
       "speaker_session": "Building a Diversive and Inclusive Community",
       "speaker_image":
-      "https://sessionize.com/image?f=3bdc61299734ea9054bd5864deaf9695,200,200,True,False,46-b602-4728-bb38-d27797efb2b0.c4716114-3ff1-4d97-bb58-6206cdd4f1f6.JPG",
-      "speaker_name": "Ishaka Usman Idris",
-      "speaker_desc": "Ambassador, GDG Keffi",
-
-      "twitter_url": "http://www.twitter.com/@Usman4all"
+      "https://pbs.twimg.com/profile_images/1146549557691637762/kRI5tMNx_400x400.jpg",
+      "speaker_name": "Esinniobiwa Quareeb",
+      "speaker_desc": "Co-founder CodesuadLLC",
+      "twitter_url": "https://twitter.com/iamdevesin"
     },
     {
       "speaker_session": "Automating Communication Using Micro Services",
@@ -58,13 +54,6 @@
       "speaker_name": "Matthew Adeniyi",
       "speaker_desc": "Lead Developer, MEV Suite",
       "twitter_url": "https://twitter.com/math_1007"
-    },
-    {
-      "speaker_session": "Go serverless on Cloud",
-      "speaker_image": "https://sessionize.com/image?f=38291c843c150c87ae59bc275c4ad6c1,200,200,True,False,da-6c1d-437a-bea6-768ed60e1318.38a09a90-e709-4eb6-bc46-bbf344822f3d.jpg",
-      "speaker_name": "Memunat Manzuma",
-      "speaker_desc": "Ambassador, Women Tech Maker Minna",
-      "twitter_url": "https://twitter.com/zaarab001"
     },
     {
       "speaker_session": "Integrating Push Notification in you web application using Firebase",
@@ -88,7 +77,6 @@
       "https://sessionize.com/image?f=4fc9835079a720512e1e97e34ea49d5e,200,200,True,False,b3bf0d90-f8b4-40c5-a0ed-e1b509f9634d.jpg",
       "speaker_name": "Oluwatosin Ogunyebi",
       "speaker_desc": "Game and XR Developer",
-
       "twitter_url": "https://twitter.com/kiing_ot"
     },
     {
@@ -97,17 +85,7 @@
       "https://sessionize.com/image?f=426cd86016c7687200ac68ae171dec94,200,200,True,False,59-e10a-44ac-b924-74c1ad1c6601.2cc3c2b9-a2dc-4cd8-aece-9d10efcc2fd6.jpg",
       "speaker_name": "Yusuf Adeyemo",
       "speaker_desc": "Full Stack Developer, VoiceMe.ai ",
-
       "twitter_url": "https://twitter.com/yusadolat"
-    },
-    {
-      "speaker_session": "TensorFlow and TF2.0",
-      "speaker_image":
-      "https://sessionize.com/image?f=1bef75c95244372bf6bb2ffedf236a39,200,200,True,False,51-55d3-4e2e-9d13-1ad7de59c133.e9e847ff-4ab0-40d5-ad3f-3d8cc1bfdc95.jpg",
-      "speaker_name": "Olayinka Peter",
-      "speaker_desc": "Co Organizer, GDG Cloud Lagos ",
-
-      "twitter_url": "https://twitter.com/@olayinkapeter_"
     }
   ]
 }

@@ -23,7 +23,7 @@ class TeamPage extends StatelessWidget {
                 size: 15,
               ),
               onPressed: () {
-                launch(speakers[0].fbUrl);
+                launch(speakers[0].fbUrl,forceWebView: true);
               },
             ),
             IconButton(
@@ -32,7 +32,7 @@ class TeamPage extends StatelessWidget {
                 size: 15,
               ),
               onPressed: () {
-                launch(speakers[0].twitterUrl);
+                launch(speakers[0].twitterUrl,forceWebView: true);
               },
             ),
             IconButton(
@@ -41,7 +41,7 @@ class TeamPage extends StatelessWidget {
                 size: 15,
               ),
               onPressed: () {
-                launch(speakers[0].linkedinUrl);
+                launch(speakers[0].linkedinUrl,forceWebView: true);
               },
             ),
             IconButton(
@@ -50,7 +50,7 @@ class TeamPage extends StatelessWidget {
                 size: 15,
               ),
               onPressed: () {
-                launch(speakers[0].githubUrl);
+                launch(speakers[0].githubUrl,forceWebView: true);
               },
             ),
           ],
